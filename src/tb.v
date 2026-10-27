@@ -19,7 +19,7 @@ module tb;
     integer total_dir;
     integer i;
 
-    tt_um_eee703128_24107915 dut (
+    project dut (
         .ui_in  (ui_in),
         .uo_out (uo_out),
         .uio_in (8'b0),
