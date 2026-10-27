@@ -2,6 +2,8 @@
 #  EEE703128 — Bài kiểm tra số 2 · thông tin dự án
 #  Sửa mọi chỗ có <...>. Đây là tệp chuỗi công cụ đọc để biết thiết kế của em.
 # ─────────────────────────────────────────────────────────────────────────────
+yaml_version: 6
+
 project:
   title:        "C03 — Bộ cảnh báo bốn kênh có mức ưu tiên"
   author:       "<Phạm Minh Quân> (24107915)"
